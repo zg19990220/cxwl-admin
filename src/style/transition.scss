@@ -1,0 +1,23 @@
+// transition scss
+.fade-page-enter-active,
+.fade-page-leave-active {
+  transition: all 0.2s;
+}
+// .fade-page-enter {
+//   opacity: 0;
+//   transform: translateX(-30px);
+// }
+// .fade-page-leave-to {
+//   opacity: 0;
+//   transform: translateX(-30px);
+// }
+
+.fade-page-enter {
+  opacity: 0;
+  transform:scale(0.9);
+}
+.fade-page-leave-to {
+  opacity: 0;
+  transform: scale(0.9);
+}
+
