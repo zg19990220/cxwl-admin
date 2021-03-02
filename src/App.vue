@@ -2,6 +2,7 @@
   <div id="app">
     <!-- <Layout /> -->
     <!-- hotfix -->
+    <!-- success iss01 -->
     <router-view></router-view>
   </div>
 </template>
