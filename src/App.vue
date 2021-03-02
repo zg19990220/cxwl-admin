@@ -2,6 +2,7 @@
   <div id="app">
     <!-- <Layout /> -->
     <!-- 测试2 -->
+    <!-- asd -->
     <router-view></router-view>
   </div>
 </template>
