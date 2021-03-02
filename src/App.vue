@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <!-- <Layout /> -->
+    <!-- hotfix -->
     <router-view></router-view>
   </div>
 </template>
